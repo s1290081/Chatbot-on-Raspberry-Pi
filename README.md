@@ -15,7 +15,7 @@ I asked the following three questions. "hello", "how are you?", "what is sushi?"
 ![result_page-0001](https://github.com/user-attachments/assets/b5c12dca-7c3c-4ec6-a395-ef4c5ce07cb8)
 
 ## dl.py
-Download the gpt2 model to gpt2_model.
+Download the gpt2 model to gpt2_model. flask, transformers, and pytorch are already installed with the pip command.
 ## app.py
 Code to run gpt2.
 ## log.txt
