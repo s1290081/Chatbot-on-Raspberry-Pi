@@ -13,3 +13,12 @@ Tokenizer and model are the contents of the gpt2_model folder that are defined i
 I asked the following three questions. "hello", "how are you?", "what is sushi?" For the sake of execution time, the generated text's length was set to 50 characters.
 
 ![result_page-0001](https://github.com/user-attachments/assets/b5c12dca-7c3c-4ec6-a395-ef4c5ce07cb8)
+
+## dl.py
+Download the gpt2 model to gpt2_model.
+## app.py
+Code to run gpt2.
+## log.txt
+This is the log from running app.py.
+## totalMemory.txt
+Result of the free command.
