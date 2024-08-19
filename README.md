@@ -1,5 +1,6 @@
 # gpt2_rasp
 On a Raspberry Pi, I developed a gpt2 web application locally. The following website served as the basis for the web application's development.
+
 https://blog.piandpython.net/make-a-gpt-2-chatbot-with-raspberry-pi-flask-and-gunicorn/#gunicorn
 
 Using dl.py, the gpt2 model was saved in the gpt2_model directory. (The size of pytorch_model.bin prevented it from being submitted to github.)
