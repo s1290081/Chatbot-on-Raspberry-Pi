@@ -1,0 +1,4 @@
+lab-rasp-01@raspberrypi:~ $ free
+               total        used        free      shared  buff/cache   available
+Mem:          931432      179244      502300        2608      249888      693176
+Swap:        2097148           0     2097148
