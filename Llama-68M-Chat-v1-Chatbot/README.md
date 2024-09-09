@@ -1,5 +1,7 @@
 # Llama-68M-Chat-v1-rasp
-# Execution result
+# Execution result on raspberry pi
+The measured execution time was roughly 30 seconds.
+
 Ask the same question and you will get the same answer.
 ![Llama Chatbot_page-0001](https://github.com/user-attachments/assets/dd926e7a-130b-4536-b9da-dd1824383123)
 I asked a few questions. the Llama model would sometimes answer the question correctly, but sometimes incorrectly. The same sentence was then generated many times for the question “What is a smart phone?”. In addition, the text ends in the middle of a sentence because it continues to generate up to the set number of characters (200).
