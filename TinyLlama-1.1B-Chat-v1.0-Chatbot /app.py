@@ -5,7 +5,7 @@ import re
 
 app = Flask(__name__)
 
-model_path = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+model_path = "./TinyLlama-1.1B-Chat-v1.0" 
 
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path, torch_dtype=torch.bfloat16)
